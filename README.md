@@ -1,0 +1,1 @@
+Please provide your Spotify client ID, client secret ID, and the playlist ID you want to sort. Then, run the `main.ipynb` file locally. It will automatically cluster the playlist and save the clusters as new playlists under your ID.
